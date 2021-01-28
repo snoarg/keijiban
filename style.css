@@ -1,0 +1,124 @@
+body{
+    width:900px;
+    margin-right:auto;
+    margin-left:auto;
+    font-size:12px;
+}
+
+
+.menu{
+    width:100%;
+    height:40px;
+    background-color:black;
+    font-size:12px;   
+}
+.menu li{
+    float:left;
+    padding-right:30px;
+    font-size:12px;
+    color:white;
+    list-style:none;
+    margin-top:10px;
+}
+h1{
+    border-left:3px solid black;
+    border-bottom:3px solid gray;
+    padding-left:2px;
+    width:600px;
+}
+
+form{
+    background-color:lightgray;
+    margin-bottom:20px;
+    border:1px solid gray;
+}
+
+form .hand{
+    padding-left:3px;
+    padding-bottom:2px;
+}
+
+form .botton{
+    padding-left:3px;
+    padding-bottom:2px;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    padding-bottom:2px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px gray;
+}
+
+.asa{
+    width:65%;
+    background-color:
+}
+
+.com input{
+    width:60%;
+    height:20px;
+}
+
+.left{
+    float:left;
+    width:65%;
+}
+
+.right{
+    float:right;
+    width:26%;
+    margin-top:12px;
+    margin-bottom: 150px;
+    margin-left:3px;
+    
+}
+
+.right li{
+     list-style:none;
+     font-size:12px;
+     padding-bottom: 10px;
+    margin-left:-20px;
+}
+
+.side1 h2{
+    border-bottom:1px dotted black;
+}
+.side2 h2{
+    border-bottom:1px solid gray;
+}
+
+.souran{
+    background-color:lightgray;
+    border:1px solid gray; 
+    padding-bottom:3px;
+    height:100px;
+    margin-bottom: 10px;
+}
+
+.souran h3{
+    border-bottom:2px solid gray;
+    width:95%;
+    border: center;
+}
+
+.souran p{
+    display:inline;
+    margin:1px;
+}
+
+footer{
+    clear:right;
+    width:100%;
+    height:50px;
+    margin-left:0px;
+    margin-bottom:0px;
+   background-color:black;
+   text-align:center;
+    color:white;
+    line-height:50px;
+     font-size:12px;
+}
